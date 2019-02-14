@@ -22,7 +22,12 @@ import java.io.StringReader;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     Button btnSaveData, btnReadData;
-	// test git tren ubuntu
+	// test
+    // uh` lam`the cung dc, ch o nhanh
+    // biet lam` chua?
+    // toi huong dan nhe o co xem trang nao khong dau toi dg dan la dc
+    // toi lam` cho nhanh nay`
+
     TextView tvData;
     private final String fileName = "nguyentiendung";
     private final String content = "lap trinh vien";
